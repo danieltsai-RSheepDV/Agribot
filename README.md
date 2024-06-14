@@ -76,7 +76,7 @@ GenerateProjectFiles.bat
 
 5. In the top left corner in the Build Bar, there will be three dropdown menus. Set the first one to "Development Editor", the second one to "Win64", and the third one to "UnrealBuildTool".
 
-6. Right click UE4 in the solution explorer and press on the Build option. This should complete with no errors. If it does, attempt rebuilding the project by right clicking UE4, Clean, then building again. If issues still persist, then it is best to delete the repository and restart from step 2. Building does take a while, be prepared forthis to take a couple of tries.
+6. Right click UE4 in the solution explorer and press on the Build option. If there are errors, attempt rebuilding the project by right clicking UE4, Clean, then scrolling down to UnrealLightmass, right clicking and pressing clean, then building UE4 again. If issues still persist, then it is best to delete the repository and restart from step 2. Building does take a while, be prepared for this to take a couple of tries.
 
 7. Scroll down in the solution explorer and right click UnrealLightmass, then press Build.
 
